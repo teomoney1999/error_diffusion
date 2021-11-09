@@ -23,4 +23,4 @@ pip3 install -r requirements.txt
 python3 entry.py
 ```
 
-### Enjoy and have fun!
+## 3.Enjoy and have fun!
